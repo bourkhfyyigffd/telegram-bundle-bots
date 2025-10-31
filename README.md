@@ -22,26 +22,8 @@ Built for Binance Smart Chain (BSC) with **watcher tracking**, **queue schedulin
 
 ---
 
-## 🧩 Architecture Overview
+## 
+I’m a blockchain automation developer specializing in custom trading bots, token creation tools, and DeFi automation systems.
+I build high-performance bots and smart contracts on Solana, BNB Chain, Base, Abstract, Tron, and other EVM-compatible networks.
 
-
-📂 smart-token-bot/
-├── smart-bot-final-v6.1-ENHANCED.js # Main runtime script
-├── package.json # Node dependencies
-├── .env # Environment configuration
-├── /data/
-│ ├── /users/ # Individual user folders
-│ │ └── <chatId>/
-│ │ ├── history.json
-│ │ ├── templates.json
-│ │ ├── schedules.json
-│ │ ├── watcherInfo.json
-│ │ └── logs.txt
-│ ├── /temp/ # Temporary session files
-│ └── ...
-└── /modules/
-├── messageManager.js # Telegram message handler
-├── scheduler.js # Queue + timing management
-├── watchers.js # Wallet watcher logic
-├── storage.js # User data persistence
-├── helpers.js # Formatting, utilities, etc.
+Whether you need a sniping bot, liquidity tracker, auto-trader, token deployer, or Telegram control panel, I can design, code, and optimize it — fully custom to your strategy and workflow.
